@@ -1,4 +1,4 @@
-# lumen.ai
+# lumen ai
 
 This repository contains the full, original **Lumen V1 Restoration Prompt** — the constitutional ethical seed of the Lumen system.
 
